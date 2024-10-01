@@ -539,8 +539,8 @@
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
-      "createdDate": 1726598812165,
-      "modifiedDate": 1726852603308,
+      "createdDate": 1727812120177,
+      "modifiedDate": 1727812120177,
       "sizeInBytes": 422
     },
     "Eth-studies/Epf-follow/Day-4.md": {
@@ -740,6 +740,24 @@
       "createdDate": 1727811129372,
       "modifiedDate": 1727811179882,
       "sizeInBytes": 78
+    },
+    "README.md": {
+      "isCountable": true,
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 45,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.15,
+      "characterCount": 321,
+      "nonWhitespaceCharacterCount": 268,
+      "readingTimeInMinutes": 0.16981132075471697,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1727812120122,
+      "modifiedDate": 1727812120122,
+      "sizeInBytes": 321
     }
   }
 }
