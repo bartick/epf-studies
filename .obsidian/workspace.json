@@ -1,0 +1,234 @@
+{
+  "main": {
+    "id": "68003093b7934454",
+    "type": "split",
+    "children": [
+      {
+        "id": "d81ebfde4b6e786e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c1e3a139a070b9dc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ETh-stucture/Accounts.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "41971b0eb5f55d2f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ETh-stucture/Blobs.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bd63648c10c4fa0f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DAS.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "def57eaf42dd315f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ETh-stucture/Proposer Builder Seperation.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b8db4e9d370ccf09",
+    "type": "split",
+    "children": [
+      {
+        "id": "bc5a25e0d74ff0c6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "153273d86ad2620f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4fbf89e6d5c55113",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1fc0631b6595fcc8",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "6bc46310d663ee78",
+    "type": "split",
+    "children": [
+      {
+        "id": "4891ff2903aaa2bf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "aed30f1a7eba0d4e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "ETh-stucture/Proposer Builder Seperation.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "81e7c8b997bd3b4f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "ETh-stucture/Proposer Builder Seperation.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4ad7aed3dfba2f05",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "8e1ec97d69a1c0b9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "ETh-stucture/Proposer Builder Seperation.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "153273d86ad2620f",
+  "lastOpenFiles": [
+    "photos/Screenshot 2024-10-02 at 1.01.42 AM.png",
+    "DAS.md",
+    "ETh-stucture/Proposer Builder Seperation.md",
+    "ETh-stucture/Blobs.md",
+    "Extra/good things.md",
+    "Byzantine generals problem.md",
+    "Bitcoin - complete understanding.md",
+    "Beacon 101.md",
+    "Extra",
+    "Extra/KZG commitment.md",
+    "Extra/Implemetation.md",
+    "EVM/Virtual rom.md",
+    "EVM/EVM 101.md",
+    "EVM/A state machine.md",
+    "ETh-stucture/Transaction receipts.md",
+    "ETh-stucture/Accounts.md",
+    "ETh-stucture/World state.md",
+    "ETh-stucture/Node architecture.md",
+    "ETh-stucture/Blocks.md",
+    "Extra/Casper.md",
+    "photos/evm.png",
+    "photos/evm 1.png",
+    "ETh-stucture/Network/Basic Networking.md",
+    "photos/nework.png",
+    "ETh-stucture/On chain data.md",
+    "Eth-studies/Epf-follow/Day-5.md",
+    "ETh-stucture/Network",
+    "Eth-studies/Epf-follow/Day-4.md",
+    "ETh-stucture/POS/Weak Subjectivity.md",
+    "ETh-stucture/POS/Gasper.md",
+    "ETh-stucture/POS/Validator.md",
+    "ETh-stucture/POS",
+    "photos/node ahh.png",
+    "photos/node.png",
+    "photos",
+    "photos/Screenshot 2024-09-18 at 4.31.18 PM.png",
+    "photos/Screenshot 2024-09-18 at 4.07.36 PM.png",
+    "Screenshot 2024-09-18 at 4.25.58 PM 1.png",
+    "Screenshot 2024-09-18 at 4.07.36 PM 1.png",
+    "Screenshot 2024-09-18 at 4.25.58 PM.png",
+    "EVM",
+    "ETh-stucture",
+    "Eth-studies/Epf-follow",
+    "Eth-studies"
+  ]
+}
